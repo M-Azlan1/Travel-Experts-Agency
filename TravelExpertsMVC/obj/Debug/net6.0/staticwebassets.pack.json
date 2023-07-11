@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TravelExpertsMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelExpertsMVC.bundle.scp.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\Asia.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\Asia.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\Carabian.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\Carabian.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\Europe.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\Europe.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\John.png",
+      "PackagePath": "staticwebassets\\lib\\images\\John.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\LogoLG.png",
+      "PackagePath": "staticwebassets\\lib\\images\\LogoLG.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\Mike.png",
+      "PackagePath": "staticwebassets\\lib\\images\\Mike.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\Sasha.png",
+      "PackagePath": "staticwebassets\\lib\\images\\Sasha.png"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (1).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (1).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (10).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (10).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (11).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (11).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (2).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (2).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (3).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (3).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (4).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (4).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (5).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (5).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (6).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (6).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (7).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (7).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (8).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (8).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\SlideShow\\Image (9).jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\SlideShow\\Image (9).jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\ceoprofilepic.jfif",
+      "PackagePath": "staticwebassets\\lib\\images\\ceoprofilepic.jfif"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\ladyprofilepic.jfif",
+      "PackagePath": "staticwebassets\\lib\\images\\ladyprofilepic.jfif"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\maleprofilepic.jfif",
+      "PackagePath": "staticwebassets\\lib\\images\\maleprofilepic.jfif"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\images\\poly.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\poly.jpg"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "\\\\Mac\\Home\\Downloads\\TravelExpertsMVC (7)\\TravelExpertsMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TravelExpertsMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TravelExpertsMVC.props",
+      "PackagePath": "build\\TravelExpertsMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelExpertsMVC.props",
+      "PackagePath": "buildMultiTargeting\\TravelExpertsMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TravelExpertsMVC.props",
+      "PackagePath": "buildTransitive\\TravelExpertsMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
